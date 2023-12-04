@@ -22,4 +22,4 @@ The aim of this project is to predict insurance purchases. Insurance prediction 
 
 ## License
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
